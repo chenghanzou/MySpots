@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 CodeStrikers. All rights reserved.
 //
 
+#import "MetaioSDKViewController.h"
+#import "EAGLView.h"
 #import "CSViewController.h"
 
 @interface CSViewController ()
